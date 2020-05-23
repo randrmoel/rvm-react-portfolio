@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/rvm-react-portfolio/static/css/main.2f463dda.chunk.css",
+    "main.js": "/rvm-react-portfolio/static/js/main.c9762b65.chunk.js",
+    "main.js.map": "/rvm-react-portfolio/static/js/main.c9762b65.chunk.js.map",
+    "runtime-main.js": "/rvm-react-portfolio/static/js/runtime-main.ce315edf.js",
+    "runtime-main.js.map": "/rvm-react-portfolio/static/js/runtime-main.ce315edf.js.map",
+    "static/js/2.86469ac6.chunk.js": "/rvm-react-portfolio/static/js/2.86469ac6.chunk.js",
+    "static/js/2.86469ac6.chunk.js.map": "/rvm-react-portfolio/static/js/2.86469ac6.chunk.js.map",
+    "index.html": "/rvm-react-portfolio/index.html",
+    "precache-manifest.d5f760816862888e9246b88bfb736ea3.js": "/rvm-react-portfolio/precache-manifest.d5f760816862888e9246b88bfb736ea3.js",
+    "service-worker.js": "/rvm-react-portfolio/service-worker.js",
+    "static/css/main.2f463dda.chunk.css.map": "/rvm-react-portfolio/static/css/main.2f463dda.chunk.css.map",
+    "static/js/2.86469ac6.chunk.js.LICENSE.txt": "/rvm-react-portfolio/static/js/2.86469ac6.chunk.js.LICENSE.txt",
+    "static/media/ActorPortfolio.jpg": "/rvm-react-portfolio/static/media/ActorPortfolio.ecac6e0d.jpg",
+    "static/media/CodeQuiz.jpg": "/rvm-react-portfolio/static/media/CodeQuiz.7f08cd2f.jpg",
+    "static/media/HW13Image.png": "/rvm-react-portfolio/static/media/HW13Image.125102f0.png",
+    "static/media/PasswordGenerator.jpg": "/rvm-react-portfolio/static/media/PasswordGenerator.0f17a04b.jpg",
+    "static/media/RobMoelHeadShot.jpg": "/rvm-react-portfolio/static/media/RobMoelHeadShot.9e3b4f17.jpg",
+    "static/media/WeatherDashboard.jpg": "/rvm-react-portfolio/static/media/WeatherDashboard.0bf12824.jpg",
+    "static/media/WorkDayScheduler.jpg": "/rvm-react-portfolio/static/media/WorkDayScheduler.a070dc2f.jpg",
+    "static/media/home_page.JPG": "/rvm-react-portfolio/static/media/home_page.5026b967.JPG",
+    "static/media/rvm-team-prog.png": "/rvm-react-portfolio/static/media/rvm-team-prog.8297218c.png",
+    "static/media/spikes.png": "/rvm-react-portfolio/static/media/spikes.5d213869.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce315edf.js",
+    "static/js/2.86469ac6.chunk.js",
+    "static/css/main.2f463dda.chunk.css",
+    "static/js/main.c9762b65.chunk.js"
+  ]
+}
