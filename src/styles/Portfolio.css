@@ -1,0 +1,19 @@
+h3 {
+    font-family: 'Georgia', 'Times New Roman', 'Times', 'serif';
+    color: #4aaaa5
+}
+
+.port-pic{
+    padding: 0 0 5% 0;
+    max-width:100%
+}
+
+.port-label {
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+    position:absolute;   
+    background-color:#4aaaa5; 
+    color:#ffffff; 
+    top:65%; 
+    left:8%; 
+    width:85%
+}

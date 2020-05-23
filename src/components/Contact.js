@@ -1,9 +1,12 @@
 import React from 'react'
+import { Container} from 'react-bootstrap'
 
-function Contact() {
+function Contact(props) {
     return(
         <div>
-            Contact
+            <Container style = {props.BackPicStyle}>
+                Contact
+            </Container>
         </div>
     )
 }
