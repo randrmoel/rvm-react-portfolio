@@ -19,9 +19,9 @@ function App() {
         <Container>
           <Nav fill variant = "tabs" defaultActiveKey = "/about">
             <Nav.Item style={{fontSize:"2em", color:"#ffffff", backgroundColor:"darkblue"}}>Robert Moel</Nav.Item>
-            <Nav.Item > <Nav.Link href = "/" >About</Nav.Link></Nav.Item>
-            <Nav.Item > <Nav.Link href = "/contact">Contact</Nav.Link> </Nav.Item>
-            <Nav.Item > <Nav.Link href = "/portfolio">Portfolio</Nav.Link> </Nav.Item>
+            <Nav.Item> <Nav.Link href = "/" >About</Nav.Link></Nav.Item>
+            <Nav.Item> <Nav.Link href = "/contact">Contact</Nav.Link> </Nav.Item>
+            <Nav.Item> <Nav.Link href = "/portfolio">Portfolio</Nav.Link> </Nav.Item>
           </Nav>
         </Container>
         <Route exact path ="/" >
