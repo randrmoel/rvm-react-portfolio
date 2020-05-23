@@ -11,6 +11,7 @@ function About(props) {
                 <Row style={{paddingBottom:"3%"}}>
                     <Col style={{marginLeft:"2%"}}>
                         <h3>About Me</h3>
+                        <hr></hr>
                         <img src={myImage} className = "headshot float-left" 
                         alt = "Rob Moel Headshot" />
                         <p>Robert Moel is an independent contractor working out of Winter Garden, FL.  With over 30-years of experience in Telecom operations, new division start-ups, division P&L improvements, Moel can tackle your firm's toughest problems. Moel is also a Certified professional engineer (TX 79764) and is skilled in new-build and rebuild construction managment, system maintenance, call center turn-arounds, and other skills.</p>

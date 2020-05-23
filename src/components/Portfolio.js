@@ -19,6 +19,7 @@ function Portfolio(props) {
                         <h3>Portfolio</h3>
                     </Col>
                 </Row>
+                <hr></hr>
                 <Row>
                     <Col sm="3" md="4">
                         <a rel="noopener noreferrer" href = "https://randrmoel.github.io/rvm-day-planner/" target ="_blank">

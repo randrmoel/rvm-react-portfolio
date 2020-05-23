@@ -1,5 +1,6 @@
 import React from 'react'
 import { Container, Row, Col, Form, Button} from 'react-bootstrap'
+import '../styles/Contact.css'
 
 function Contact(props) {
     return(
@@ -10,6 +11,7 @@ function Contact(props) {
                         <h3>Contact Me</h3>
                     </Col>
                 </Row>
+                <hr ></hr>
                 <Row>
                     <Col>
                         <Form>

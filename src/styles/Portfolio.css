@@ -17,3 +17,8 @@ h3 {
     left:8%; 
     width:85%
 }
+
+hr {
+    background: #4aaaa5;
+    height: 4px;
+}

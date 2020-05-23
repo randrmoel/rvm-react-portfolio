@@ -12,3 +12,8 @@ h3 {
     font-family: 'Georgia', 'Times New Roman', 'Times', 'serif';
     color: #4aaaa5
 }
+
+hr {
+    background: #4aaaa5;
+    height: 4px;
+}
