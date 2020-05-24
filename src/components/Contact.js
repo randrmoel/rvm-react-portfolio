@@ -25,7 +25,7 @@ function Contact(props) {
         document.getElementById("textArea").innerHTML="";
         /*window.open(`"mailto:${formData.email}$subject=Contact Rob Moel from ${formData.name}&body=${formData.intext}"`)*/
         console.log(formData.name, formData.email, formData.inText);
-        window.location.href = `mailto:robert.moel@rvmconsulting1.com?subject=Contact%20Rob%20Moel%20from%20${formData.email.split(" ").join("%20")}&body=${formData.inText.split(" ").join("%20")}`
+        window.location = `mailto:robert.moel@rvmconsulting1.com?subject=Contact%20Rob%20Moel%20from%20${formData.email.split(" ").join("%20")}&body=${formData.inText.split(" ").join("%20")}`
 
     }
     return(
