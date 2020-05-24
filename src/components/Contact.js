@@ -25,7 +25,7 @@ function Contact(props) {
         document.getElementById("formBasicEmail").innerHTML="";
         document.getElementById("textArea").innerHTML="";
         /*window.open(`mailto:test@example.com?subject=Contact%20Rob%20Moel%20from%20${formData.email.split(" ").join("%20")}&body=${formData.inText.split(" ").join("%20")}`, '_blank')*/
-        console.log(formDate.email, formData.name, formData.inText);
+        console.log(formData.email, formData.name, formData.inText);
     }
     return(
         <div>
