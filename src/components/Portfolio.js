@@ -41,7 +41,7 @@ function Portfolio(props) {
 
                     </Col>
                     <Col sm="3" md="4">
-                        <a rel="noopener noreferrer" href = "https://randrmoel.github.io/rvm-code-quiz/" target = "_blank">
+                        <a rel="noopener noreferrer" href = "https://randrmoel.github.io/rvm-pw-gen/" target = "_blank">
                             <img src={Pic13} className = "img-fluid rounded float-left port-pic" 
                                 alt = "Password Generator" />
                         </a>
