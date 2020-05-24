@@ -1,5 +1,5 @@
 import React from 'react';
-import {BrowserRouter as Router, Route, Link} from 'react-router-dom'
+import {BrowserRouter as Router, Route, Link, Redirect} from 'react-router-dom'
 import './App.css';
 import About from './components/About'
 import Contact from './components/Contact'
@@ -33,6 +33,7 @@ function App() {
         <Route path ="/portfolio">
           <Portfolio BackPicStyle={BackPicStyle}/>
         </Route>
+        <Redirect to="/"/>
       </Router>
       <Footer />
     </div>
