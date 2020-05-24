@@ -27,10 +27,10 @@ function App() {
         <Route exact path ="/" >
           <About BackPicStyle={BackPicStyle}/>
         </Route>
-        <Route path = "/contact" >
+        <Route exact path = "/contact" >
           <Contact BackPicStyle={BackPicStyle}/>
         </Route>
-        <Route path ="/portfolio">
+        <Route exact path ="/portfolio">
           <Portfolio BackPicStyle={BackPicStyle}/>
         </Route>
         <Redirect to="/"/>
