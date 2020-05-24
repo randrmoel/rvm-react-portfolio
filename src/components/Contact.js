@@ -20,13 +20,12 @@ function Contact(props) {
     };
 
     function sendEmail(e){
+        e.preventDefault();
         document.getElementById("formName").innerHTML="";
         document.getElementById("formBasicEmail").innerHTML="";
         document.getElementById("textArea").innerHTML="";
-        /*window.open(`"mailto:${formData.email}$subject=Contact Rob Moel from ${formData.name}&body=${formData.intext}"`)*/
-        console.log(formData.name, formData.email, formData.inText);
-        window.open(`mailto:test@example.com?subject=Contact%20Rob%20Moel%20from%20${formData.email.split(" ").join("%20")}&body=${formData.inText.split(" ").join("%20")}`, 'https://randrmoel.github.io/contact')
-
+        /*window.open(`mailto:test@example.com?subject=Contact%20Rob%20Moel%20from%20${formData.email.split(" ").join("%20")}&body=${formData.inText.split(" ").join("%20")}`, '_blank')*/
+        console.log(formDate.email, formData.name, formData.inText);
     }
     return(
         <div>
