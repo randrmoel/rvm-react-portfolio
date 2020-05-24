@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/rvm-react-portfolio/static/css/main.2f463dda.chunk.css",
-    "main.js": "/rvm-react-portfolio/static/js/main.3a4b61e9.chunk.js",
-    "main.js.map": "/rvm-react-portfolio/static/js/main.3a4b61e9.chunk.js.map",
+    "main.js": "/rvm-react-portfolio/static/js/main.75331c2a.chunk.js",
+    "main.js.map": "/rvm-react-portfolio/static/js/main.75331c2a.chunk.js.map",
     "runtime-main.js": "/rvm-react-portfolio/static/js/runtime-main.ce315edf.js",
     "runtime-main.js.map": "/rvm-react-portfolio/static/js/runtime-main.ce315edf.js.map",
     "static/js/2.a0b2ad75.chunk.js": "/rvm-react-portfolio/static/js/2.a0b2ad75.chunk.js",
     "static/js/2.a0b2ad75.chunk.js.map": "/rvm-react-portfolio/static/js/2.a0b2ad75.chunk.js.map",
     "index.html": "/rvm-react-portfolio/index.html",
-    "precache-manifest.908e51eee8a30b95d09673c25d0b3a81.js": "/rvm-react-portfolio/precache-manifest.908e51eee8a30b95d09673c25d0b3a81.js",
+    "precache-manifest.9031dac568c54bafb0cf4a848b858239.js": "/rvm-react-portfolio/precache-manifest.9031dac568c54bafb0cf4a848b858239.js",
     "service-worker.js": "/rvm-react-portfolio/service-worker.js",
     "static/css/main.2f463dda.chunk.css.map": "/rvm-react-portfolio/static/css/main.2f463dda.chunk.css.map",
     "static/js/2.a0b2ad75.chunk.js.LICENSE.txt": "/rvm-react-portfolio/static/js/2.a0b2ad75.chunk.js.LICENSE.txt",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.ce315edf.js",
     "static/js/2.a0b2ad75.chunk.js",
     "static/css/main.2f463dda.chunk.css",
-    "static/js/main.3a4b61e9.chunk.js"
+    "static/js/main.75331c2a.chunk.js"
   ]
 }
