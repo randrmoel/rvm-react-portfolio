@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/rvm-react-portfolio/static/css/main.2f463dda.chunk.css",
-    "main.js": "/rvm-react-portfolio/static/js/main.67270ce2.chunk.js",
-    "main.js.map": "/rvm-react-portfolio/static/js/main.67270ce2.chunk.js.map",
+    "main.js": "/rvm-react-portfolio/static/js/main.6178cd16.chunk.js",
+    "main.js.map": "/rvm-react-portfolio/static/js/main.6178cd16.chunk.js.map",
     "runtime-main.js": "/rvm-react-portfolio/static/js/runtime-main.ce315edf.js",
     "runtime-main.js.map": "/rvm-react-portfolio/static/js/runtime-main.ce315edf.js.map",
     "static/js/2.db19db24.chunk.js": "/rvm-react-portfolio/static/js/2.db19db24.chunk.js",
     "static/js/2.db19db24.chunk.js.map": "/rvm-react-portfolio/static/js/2.db19db24.chunk.js.map",
     "index.html": "/rvm-react-portfolio/index.html",
-    "precache-manifest.cd2ce5c39f440d1132b24851b4568e0b.js": "/rvm-react-portfolio/precache-manifest.cd2ce5c39f440d1132b24851b4568e0b.js",
+    "precache-manifest.c24f00bb8a97ef1a953b2bc455a69460.js": "/rvm-react-portfolio/precache-manifest.c24f00bb8a97ef1a953b2bc455a69460.js",
     "service-worker.js": "/rvm-react-portfolio/service-worker.js",
     "static/css/main.2f463dda.chunk.css.map": "/rvm-react-portfolio/static/css/main.2f463dda.chunk.css.map",
     "static/js/2.db19db24.chunk.js.LICENSE.txt": "/rvm-react-portfolio/static/js/2.db19db24.chunk.js.LICENSE.txt",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.ce315edf.js",
     "static/js/2.db19db24.chunk.js",
     "static/css/main.2f463dda.chunk.css",
-    "static/js/main.67270ce2.chunk.js"
+    "static/js/main.6178cd16.chunk.js"
   ]
 }
