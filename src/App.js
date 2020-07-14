@@ -11,7 +11,7 @@ import BackPic from './images/spikes.png'
 function App() {
 
 
-  const BackPicStyle =  {backgroundImage: `url(${BackPic})`, margin:"0%", padding:"1% 20% 15% 3%", width:"max-width"}
+  const BackPicStyle =  {backgroundImage: `url(${BackPic})`, margin:"0%", padding:"1% 20% 15% 3%", width:"max-width", overflow:"auto"}
 
   return (
     <div className="App">
