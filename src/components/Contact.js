@@ -29,7 +29,7 @@ function Contact(props) {
     }
     return(
         <div>
-            <Container style = {props.BackPicStyle}>
+            <Container fluid style = {props.BackPicStyle}>
                 <Row>
                     <Col style={{marginLeft:"2%"}}>
                         <h3>Contact Me</h3>
